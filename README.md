@@ -81,12 +81,4 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 - [scp command in Linux 💻](https://apoorvtyagi.tech/scp-command-in-linux)
 - [Different ways to authenticate your APIs](https://apoorvtyagi.tech/different-ways-to-authenticate-your-apis)
 <!-- BLOG-POST-LIST:END -->
----
-
-### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
 ----
-Credit: [Apoorv Tyagi](https://github.com/ApoorvTyagi)
-
-Last Edited on: 26/11/2020
