@@ -3,8 +3,8 @@
 ### 🤵 About Me:
 - 🏦 I'm Nizar Informatics Student at Perjuangan University.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.java```,``` .py```, ```.sql```
-- 🌱 I’m currently learning golang, javascript, cloud computing, docker and kubernetes.
+- 🤔 I use daily ```.Javscript```,``` Go Languange```, ```Google Cloud```,  ```Docker``` 
+- 🌱 I’m currently learning go language, javascript, cloud computing, docker and kubernetes.
 
 ---
 ### 🐱My Github stats:
