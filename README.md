@@ -1,10 +1,10 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ### 🤵 About Me:
-- 🏦 I'm currently working for a healthcare based startup where i make financial applications using spring boot and mysql 
+- 🏦 I'm Nizar Informatics Student at Perjuangan University.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.java```,``` .py```, ```.sql```
-- 🌱 I’m currently learning docker and kubernetes
+- 🌱 I’m currently learning golang, javascript, cloud computing, docker and kubernetes.
 
 ---
 ### 🐱My Github stats:
